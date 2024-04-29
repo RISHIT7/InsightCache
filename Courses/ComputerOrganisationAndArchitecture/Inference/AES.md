@@ -52,5 +52,5 @@
 > - Say the initial key is of 128 bits
 > - w[0] = k[0-3], ...
 >
-> ![AES Key Exapansion Image](images\KeyExpansion.png)
+> ![AES Key Exapansion Image](images/KeyExpansion.png)
 > <p style = "color: rgba(256, 256, 256, 0.2)">Courtesy (Neso Academy)</p>
