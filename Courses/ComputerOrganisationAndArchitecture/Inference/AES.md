@@ -29,15 +29,16 @@
 
 > 1) Done Using a Matrix Multiplication
 > 2) The Matrix is ->
-> $
+> ```latex
 > \begin{equation}
-> \begin{array}{ccc}
+> \begin{bmatrix}{ccc}
 > 2 & 3 & 1 & 1 \\
 > 1 & 2 & 3 & 1 \\
 > 1 & 1 & 2 & 3 \\
 > 3 & 1 & 1 & 2\\
-> \end{array}
-> \end{equation}$
+> \end{bmatrix}
+> \end{equation}
+> ```
 
 ## Round Key
 
