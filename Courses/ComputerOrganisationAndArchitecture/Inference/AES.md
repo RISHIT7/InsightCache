@@ -31,11 +31,11 @@
 > 2) The Matrix is ->
 > ```math
 > \begin{equation}
-> \begin{bmatrix}{ccc}
+> \begin{bmatrix}
 > 2 & 3 & 1 & 1 \\
 > 1 & 2 & 3 & 1 \\
 > 1 & 1 & 2 & 3 \\
-> 3 & 1 & 1 & 2\\
+> 3 & 1 & 1 & 2
 > \end{bmatrix}
 > \end{equation}
 > ```
