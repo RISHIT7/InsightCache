@@ -29,7 +29,7 @@
 
 > 1) Done Using a Matrix Multiplication
 > 2) The Matrix is ->
-> ```latex
+> ```math
 > \begin{equation}
 > \begin{bmatrix}{ccc}
 > 2 & 3 & 1 & 1 \\
